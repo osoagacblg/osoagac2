@@ -1,7 +1,7 @@
 const agaclar = [
     {
-        ad: "Çam Ağacı",
-        bilgi: "2014 yılında dikildi. Ortalama boyu 6 metredir.",
+        ad: "Mazı (Thuja)",
+        bilgi: "Piramit Mazı veya Sütun Mazı olarakta bilinir. Yaklaşık 4-5 metre uzunluğa sahiptir. 12 ile 18 yaş arasındadır. Diğer çam türleri gibi iğne yapraklı değildir daha çok pul yapraklıdır. Rüzgara,soğuğa ve şehir kirliliğine karşı çok dirençlidir. ",
         resim: "images/agac2.jpg"
     },
 ];
